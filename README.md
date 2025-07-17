@@ -17,15 +17,6 @@ Lena is a fast, lightweight and intelligent tunnel that provides a stable and se
 ⚙️ Easy installation and setup with HAProxy: Tunnels are automatically and intelligently created and managed with the help of the powerful HAProxy tool.<br>
 💡 Very low resource consumption: Lena is designed for optimal performance and consumes minimal hardware resources while providing high speed and stability.<br>
 
-# Install script
-```
-bash <(curl -Ls https://raw.githubusercontent.com/MrAminiDev/LenaTunnel/main/install.sh)
-```
-
-## Support the project with cryptocurrency
-- TRX : `TLfVhyK6ihTuPNtFpuhULNuJaiKFLHxMFL`
-- Ton : `UQC42Zx1E8SQunnNIx00UZBr_GEs_2kTgT6HBcg_S64GzUj4`
-- USDT (Bep20) : `0xED771A849B8D911f30804Cb68e76adcc5bcF5D16`
 
 ## Stargazers over time
 [![Stargazers over time](https://starchart.cc/MrAminiDev/LenaTunnel.svg?variant=adaptive)](https://starchart.cc/MrAminiDev/LenaTunnel)
